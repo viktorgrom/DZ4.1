@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class list extends AppCompatActivity {
+public class list extends AppCompatActivity { //Названия классов должны начинаться с заглавной буквы
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
